@@ -22,12 +22,12 @@
       <td width="50%" valign="top">
         <h3>💍 SimplyWed</h3>
         <p>A full-stack platform that helps couples plan their wedding from start to finish — managing guest lists, vendors, budgets, and timelines, all in one beautiful place.</p>
-        <a href="https://github.com/<username>/simplywed"><strong>→ View Project</strong></a>
+        <a href="https://github.com/Coral3la/SimplyWed"><strong>→ View Project</strong></a>
       </td>
       <td width="50%" valign="top">
         <h3>📸 Wedding Photos</h3>
         <p>A shared photo experience for weddings, letting guests upload and browse memories from the big day in real time.</p>
-        <a href="https://github.com/<username>/wedding-photos"><strong>→ View Project</strong></a>
+        <a href="https://github.com/Coral3la/wedding-photos"><strong>→ View Project</strong></a>
       </td>
     </tr>
   </table>
